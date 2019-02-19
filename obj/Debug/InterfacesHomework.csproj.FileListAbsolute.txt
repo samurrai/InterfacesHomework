@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\bin\Debug\InterfacesHomework.exe.config
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\bin\Debug\InterfacesHomework.exe
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\bin\Debug\InterfacesHomework.pdb
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\obj\Debug\InterfacesHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\obj\Debug\InterfacesHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\obj\Debug\InterfacesHomework.exe
+C:\Users\User\source\repos\InterfacesHomework\InterfacesHomework\obj\Debug\InterfacesHomework.pdb
